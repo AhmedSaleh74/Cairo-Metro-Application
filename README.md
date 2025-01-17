@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Cairo-Metro-Application
-Developed a comprehensive Cairo Metro navigation application using Kotlin and Android Studio, implementing the Depth-First Search (DFS) algorithm to calculate both the shortest and all possible routes between stations. The application helps commuters optimize their journey through Cairo's metro network by providing efficient path-finding solutions.
-=======
                   ✨🚇welcome in our cairo metro android application 🚇✨
   
         🔥 this application has many features that will help you to arrive your destination:🔥
