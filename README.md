@@ -11,10 +11,4 @@
       ⭐  other paths to arrive your destination.
 
             🌜💥 HOPE IT WILL BE USEFUL 💥🌛 
-                  💕😎 RAMD TEAM 😎💕
-            
-   
-
-  
- 
->>>>>>> cd34f7f (Initial commit)
+                  💕😎 AS 😎💕
